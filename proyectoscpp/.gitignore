@@ -1,1 +1,6 @@
 *.exe
+.vscode / *
+! .vscode / configuraciones.json
+! .vscode / tareas.json
+! .vscode / lanzamiento.json
+! .vscode / extensiones.json
